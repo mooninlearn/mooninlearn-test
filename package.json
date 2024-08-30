@@ -1,0 +1,17 @@
+{
+  "name": "github-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@octokit/rest": "^21.0.2",
+    "dotenv": "^16.4.5",
+    "jnj-lib-base": "^0.0.31"
+  },
+  "type": "module"
+}
